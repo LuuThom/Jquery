@@ -36,6 +36,16 @@
     transition: 1s;
     transform: translateY(0px);
 }
+.button-toogle {
+    position: relative;
+    top: 50px;
+    left: 50px;
+    background: aliceblue;
+    border: 1px solid gray;
+    padding: 9px;
+    color: blue;
+    font-size: 20px;
+}
 #register-modal {
     position: fixed;
     width: 50%;
